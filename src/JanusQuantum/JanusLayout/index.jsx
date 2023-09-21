@@ -60,17 +60,28 @@ export default function JanusLayout() {
     {
       key: "1",
       label: (
-        <Link tyle={{ fontSize: 18, color: "black" }} to="/janus">
+        <a
+          target="_blank"
+          href="http://janusq.zju.edu.cn/#/home"
+          _blank
+          rel="noreferrer"
+          tyle={{ fontSize: 18, color: "black" }}
+        >
           HomeLink
-        </Link>
+        </a>
       ),
     },
     {
       key: "2",
       label: (
-        <Link tyle={{ fontSize: 18, color: "black" }} to="/aboutUs">
+        <a
+          tyle={{ fontSize: 18, color: "black" }}
+          target="_blank"
+          href="http://janusq.zju.edu.cn/#/aboutUs"
+          rel="noreferrer"
+        >
           About us
-        </Link>
+        </a>
       ),
     },
     {
