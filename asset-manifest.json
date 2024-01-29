@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/janus/static/css/main.f9c4bd2c.css",
-    "main.js": "/janus/static/js/main.9fcd35af.js",
-    "static/css/558.49005bfc.chunk.css": "/janus/static/css/558.49005bfc.chunk.css",
-    "static/js/558.4bc9fb6f.chunk.js": "/janus/static/js/558.4bc9fb6f.chunk.js",
-    "static/js/960.1417ffaf.chunk.js": "/janus/static/js/960.1417ffaf.chunk.js",
-    "static/media/janus.png": "/janus/static/media/janus.642e729b4a3ccc045b0f.png",
+    "main.css": "/janus/static/css/main.4c54ffe4.css",
+    "main.js": "/janus/static/js/main.169a8e5a.js",
+    "static/css/808.a16fc247.chunk.css": "/janus/static/css/808.a16fc247.chunk.css",
+    "static/js/808.b712a35a.chunk.js": "/janus/static/js/808.b712a35a.chunk.js",
+    "static/js/585.b8a4a1b4.chunk.js": "/janus/static/js/585.b8a4a1b4.chunk.js",
+    "static/js/577.65064c2d.chunk.js": "/janus/static/js/577.65064c2d.chunk.js",
+    "static/media/janus1.svg": "/janus/static/media/janus1.c14aaae2f0c005e247b03b96547500e5.svg",
     "static/media/tansiwei.png": "/janus/static/media/tansiwei.7c37b16779720c25b454.png",
     "static/media/jianweiyin.png": "/janus/static/media/jianweiyin.cc836bd95fc30519fedd.png",
     "static/media/logo.png": "/janus/static/media/logo.b8fa644b74b62974bbcb.png",
@@ -14,14 +15,15 @@
     "static/media/liqianglu.png": "/janus/static/media/liqianglu.9e5e5f6e6ecc5566f801.png",
     "static/media/schude.png": "/janus/static/media/schude.f2e2e372ff1b7af5fcda.png",
     "index.html": "/janus/index.html",
-    "main.f9c4bd2c.css.map": "/janus/static/css/main.f9c4bd2c.css.map",
-    "main.9fcd35af.js.map": "/janus/static/js/main.9fcd35af.js.map",
-    "558.49005bfc.chunk.css.map": "/janus/static/css/558.49005bfc.chunk.css.map",
-    "558.4bc9fb6f.chunk.js.map": "/janus/static/js/558.4bc9fb6f.chunk.js.map",
-    "960.1417ffaf.chunk.js.map": "/janus/static/js/960.1417ffaf.chunk.js.map"
+    "main.4c54ffe4.css.map": "/janus/static/css/main.4c54ffe4.css.map",
+    "main.169a8e5a.js.map": "/janus/static/js/main.169a8e5a.js.map",
+    "808.a16fc247.chunk.css.map": "/janus/static/css/808.a16fc247.chunk.css.map",
+    "808.b712a35a.chunk.js.map": "/janus/static/js/808.b712a35a.chunk.js.map",
+    "585.b8a4a1b4.chunk.js.map": "/janus/static/js/585.b8a4a1b4.chunk.js.map",
+    "577.65064c2d.chunk.js.map": "/janus/static/js/577.65064c2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9c4bd2c.css",
-    "static/js/main.9fcd35af.js"
+    "static/css/main.4c54ffe4.css",
+    "static/js/main.169a8e5a.js"
   ]
 }
