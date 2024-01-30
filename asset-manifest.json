@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/janus/static/css/main.4c54ffe4.css",
-    "main.js": "/janus/static/js/main.169a8e5a.js",
-    "static/css/808.a16fc247.chunk.css": "/janus/static/css/808.a16fc247.chunk.css",
-    "static/js/808.b712a35a.chunk.js": "/janus/static/js/808.b712a35a.chunk.js",
-    "static/js/585.b8a4a1b4.chunk.js": "/janus/static/js/585.b8a4a1b4.chunk.js",
-    "static/js/577.65064c2d.chunk.js": "/janus/static/js/577.65064c2d.chunk.js",
+    "main.css": "/janus/static/css/main.620bdc80.css",
+    "main.js": "/janus/static/js/main.e5da61a0.js",
+    "static/css/625.ddb6c782.chunk.css": "/janus/static/css/625.ddb6c782.chunk.css",
+    "static/js/625.7321c90e.chunk.js": "/janus/static/js/625.7321c90e.chunk.js",
+    "static/css/537.ffa6bab4.chunk.css": "/janus/static/css/537.ffa6bab4.chunk.css",
+    "static/js/537.5d5f3b15.chunk.js": "/janus/static/js/537.5d5f3b15.chunk.js",
+    "static/js/316.d1b16b5e.chunk.js": "/janus/static/js/316.d1b16b5e.chunk.js",
     "static/media/janus1.svg": "/janus/static/media/janus1.c14aaae2f0c005e247b03b96547500e5.svg",
     "static/media/tansiwei.png": "/janus/static/media/tansiwei.7c37b16779720c25b454.png",
     "static/media/jianweiyin.png": "/janus/static/media/jianweiyin.cc836bd95fc30519fedd.png",
@@ -13,17 +14,17 @@
     "static/media/wuweitian.png": "/janus/static/media/wuweitian.759781b5ad45dd39eeeb.png",
     "static/media/paper.png": "/janus/static/media/paper.f3dd62501b05e4142fb2.png",
     "static/media/liqianglu.png": "/janus/static/media/liqianglu.9e5e5f6e6ecc5566f801.png",
-    "static/media/schude.png": "/janus/static/media/schude.f2e2e372ff1b7af5fcda.png",
     "index.html": "/janus/index.html",
-    "main.4c54ffe4.css.map": "/janus/static/css/main.4c54ffe4.css.map",
-    "main.169a8e5a.js.map": "/janus/static/js/main.169a8e5a.js.map",
-    "808.a16fc247.chunk.css.map": "/janus/static/css/808.a16fc247.chunk.css.map",
-    "808.b712a35a.chunk.js.map": "/janus/static/js/808.b712a35a.chunk.js.map",
-    "585.b8a4a1b4.chunk.js.map": "/janus/static/js/585.b8a4a1b4.chunk.js.map",
-    "577.65064c2d.chunk.js.map": "/janus/static/js/577.65064c2d.chunk.js.map"
+    "main.620bdc80.css.map": "/janus/static/css/main.620bdc80.css.map",
+    "main.e5da61a0.js.map": "/janus/static/js/main.e5da61a0.js.map",
+    "625.ddb6c782.chunk.css.map": "/janus/static/css/625.ddb6c782.chunk.css.map",
+    "625.7321c90e.chunk.js.map": "/janus/static/js/625.7321c90e.chunk.js.map",
+    "537.ffa6bab4.chunk.css.map": "/janus/static/css/537.ffa6bab4.chunk.css.map",
+    "537.5d5f3b15.chunk.js.map": "/janus/static/js/537.5d5f3b15.chunk.js.map",
+    "316.d1b16b5e.chunk.js.map": "/janus/static/js/316.d1b16b5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c54ffe4.css",
-    "static/js/main.169a8e5a.js"
+    "static/css/main.620bdc80.css",
+    "static/js/main.e5da61a0.js"
   ]
 }
